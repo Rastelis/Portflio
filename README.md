@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Hello. here are a few projects I've worked during my JavaSript course and free time.
+Hello, ere are a few projects I've worked during my JavaSript course and free time.
 
 
 * Responsive page design using bootstrap: https://joyful-cannoli-36ef66.netlify.app/
